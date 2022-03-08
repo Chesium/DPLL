@@ -1,0 +1,4 @@
+.cph
+.vscode
+*.exe
+test.cpp
